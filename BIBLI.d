@@ -1,1 +1,0 @@
-BIBLI.o BIBLI.d : BIBLI.c
